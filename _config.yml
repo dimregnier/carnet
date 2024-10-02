@@ -3,8 +3,8 @@
 
 title: Carnet
 description: a minimal, text focused blog theme
-baseurl: "/carnet/" # the subpath of your site, e.g. /blog/
-url: "https://dimregnier.github.io" # the base hostname & protocol for your site
+# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
+url: "https://dimregnier.github.io/carnet" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
