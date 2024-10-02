@@ -54,13 +54,13 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
+# Blog: /blog
 
 # Add general links to site pages here
-links:
-  Resume: /assets/resume.pdf
+# links:
+  # Resume: /assets/resume.pdf
 
 
 # Add links for more focus here
 special_links:
-  "Search": https://duckduckgo.com
+  "Search": https://www.google.com/search?q=dimitri+regnier
