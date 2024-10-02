@@ -23,13 +23,13 @@ Disponible en [*RSS*](https://podcast.dimitriregnier.net/@lemegaphone/feed.xml) 
 
 <iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://podcast.dimitriregnier.net/@lemegaphone/episodes/confidences-au-115-bande-annonce/embed/dark"></iframe>
 
-J'aime écrire des histoires à partir du réel : interviews, micro-trottoirs et autres témoignages vivants, comme dans [**Confidences au 115**](/115){:target="_blank"}.
+J'aime écrire des histoires à partir du réel : interviews, micro-trottoirs et autres témoignages vivants, comme dans [Confidences au 115](https://dimitriregnier.net/115){:target="_blank"}.
 
 ### J'anime des cours, des ateliers et des stages
 
 Avec **ADAGE & le pass Culture**, je propose des ateliers d'initiation pour améliorer sa [prise de parole en public](https://dimitriregnier.net/blog/oralite){:target="_blank"} ou pour s'essayer à l'[expression sonore](https://dimitriregnier.net/blog/podcasts){:target="_blank"}.
 
-Avec **Pop' Média**, je propose de [créer son podcast ↗](https://www.popmedia.fr/les-formations-pop-media/stage-creer-son-podcast/){:target="_blank"} sans se tromper. _(Plusieurs sessions par an à Nantes)_
+Avec **Pop'Média**, je propose de [créer son podcast ↗](https://www.popmedia.fr/les-formations-pop-media/stage-creer-son-podcast/){:target="_blank"} sans se tromper. _(Plusieurs sessions par an à Nantes)_
 
 ### J'accompagne des marques
 
